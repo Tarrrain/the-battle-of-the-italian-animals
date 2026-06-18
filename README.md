@@ -203,4 +203,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Enjoy the battle! May the best fighter win! 🏆**
+**Enjoy the battle! May the best fighter win**
